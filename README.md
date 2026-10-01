@@ -22,3 +22,37 @@ O algoritmo recebe uma string de entrada (`Jabuticaba`) e aplica duas camadas co
 2. **Camada 2 (Dinâmica):** Aplica um segundo deslocamento baseado nos elementos correspondentes da Série de Fibonacci para cada posição do caractere.
 
 O resultado final é exibido em tela e automaticamente exportado para um arquivo de log chamado `resultado_criptografia.txt`.
+
+
+## 🚀 Como Executar o Projeto
+
+Você pode rodar este projeto localmente em sua máquina ou diretamente no navegador.
+
+### Opção 1: No Navegador (OnlineGDB)
+1. Copie todo o conteúdo do arquivo `main.c`.
+2. Acesse o [OnlineGDB](https://onlinegdb.com) e mude a linguagem no canto superior direito para **C**.
+3. Cole o código e clique em **Run**.
+4. Insira os dados de teste no terminal conforme solicitado.
+
+### Opção 2: Pelo Terminal (GCC)
+Se você tiver um compilador instalado localmente, execute os seguintes comandos no terminal:
+
+```bash
+# Clonar o repositório
+git clone https://github.com
+
+# Entrar na pasta do projeto
+cd Cifra-de-Cesar
+
+# Compilar o código fonte
+gcc main.c -o criptografia
+
+# Executar o programa
+./criptografia
+```
+
+## 🧪 Dados Utilizados no Teste de Validação
+Para gerar o arquivo de log `resultado_criptografia.txt` presente neste repositório, utilizamos as seguintes entradas no sistema:
+* **Palavra Secreta:** `Jabuticaba`
+* **Deslocamento (SHIFT Fixo):** `7`
+* **Sequência Escolhida:** `3` (Série de Fibonacci)
