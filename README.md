@@ -6,7 +6,7 @@ Este projeto foi desenvolvido para a disciplina de **Algoritmos e Pensamento Com
 * [Lucas Morais](https://github.com/lucasmoraisstory)
 * [Carolina Ayumi](https://github.com/carolinaayumi02-stack)
 * [Lucas Oliveira](https://github.com/LucasoliveiraSG)
-* [Vitoria Christini](https://github.com)
+* [Vitoria Christini](https://github.com/vitoriachristini2019-oss)
 
 ## 🧠 Aplicação da Taxonomia de Bloom
 
