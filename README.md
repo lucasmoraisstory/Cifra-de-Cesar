@@ -1,4 +1,4 @@
-# Atividade 02 - Cifra de César Avançada com Sequências Matemáticas
+# Cifra de César Avançada com Sequências Matemáticas
 
 Este projeto foi desenvolvido para a disciplina de **Algoritmos e Pensamento Computacional** sob a orientação do Professor Francisco de Assis Cavallaro (UNICID).
 
