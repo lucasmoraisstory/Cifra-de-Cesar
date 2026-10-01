@@ -3,7 +3,7 @@
 Este projeto foi desenvolvido para a disciplina de **Algoritmos e Pensamento Computacional** sob a orientação do Professor Francisco de Assis Cavallaro, pela Universidade Cidade de São Paulo (UNICID).
 
 ## 👥 Integrantes do Grupo
-* [Lucas Morais](https://github.com)
+* [Lucas Morais](https://github.com/lucasmoraisstory)
 * [Carolina Ayumi](https://github.com/carolinaayumi02-stack)
 * [Lucas Oliveira](https://github.com/LucasoliveiraSG)
 * [Vitoria Christini](https://github.com)
