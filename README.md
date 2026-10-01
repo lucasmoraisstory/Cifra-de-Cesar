@@ -1,6 +1,6 @@
 # Cifra de César Avançada com Sequências Matemáticas
 
-Este projeto foi desenvolvido para a disciplina de **Algoritmos e Pensamento Computacional** sob a orientação do Professor Francisco de Assis Cavallaro (UNICID).
+Este projeto foi desenvolvido para a disciplina de **Algoritmos e Pensamento Computacional** sob a orientação do Professor Francisco de Assis Cavallaro, pela Universidade Cidade de São Paulo (UNICID).
 
 ## 👥 Integrantes do Grupo
 * [Lucas Morais](https://github.com)
