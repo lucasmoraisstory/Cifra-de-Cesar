@@ -4,7 +4,9 @@ Este projeto foi desenvolvido para a disciplina de **Algoritmos e Pensamento Com
 
 ## 👥 Integrantes do Grupo
 * [Lucas Morais](https://github.com)
-
+* [Carolina Ayumi](https://github.com/carolinaayumi02-stack)
+* [Lucas Oliveira](https://github.com/LucasoliveiraSG)
+* [Vitoria Christini](https://github.com)
 
 ## 🧠 Aplicação da Taxonomia de Bloom
 
