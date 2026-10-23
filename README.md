@@ -23,7 +23,7 @@ O algoritmo recebe uma string de entrada (`Jabuticaba`) e aplica duas camadas co
 
 O resultado final é exibido em tela e automaticamente exportado para um arquivo de log chamado `resultado_criptografia.txt`.
 
-![Menu Interativo do Programa](resultado.PNG)
+![Menu Interativo do Programa](resultado7.PNG)
 
 
 ## Como Executar o Projeto
